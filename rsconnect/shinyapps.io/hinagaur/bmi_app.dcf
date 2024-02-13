@@ -1,0 +1,10 @@
+name: bmi_app
+title:
+username: hinagaur
+account: hinagaur
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11198479
+bundleId: 8245277
+url: https://hinagaur.shinyapps.io/bmi_app/
+version: 1
